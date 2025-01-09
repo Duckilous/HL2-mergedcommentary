@@ -1,0 +1,93 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_048_rollermines"
+		"origin" "2936.6298828125 -9995.8701171875 1473.2800292969"
+		"angles" "0 132.6100006104 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_048_rollermines.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Josh Weier - Rollermines"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_035_ambush"
+		"origin" "-5678.6801757813 -11354.98046875 899.6300048828"
+		"angles" "0 123.5 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_035_ambush.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] David Sawyer - Ambush"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_047_crossbow"
+		"origin" "-3661.2600097656 -4103.41015625 1348.8800048828"
+		"angles" "0 110.8300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_047_crossbow.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] John Cook - Crossbow"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_045_gas_station"
+		"origin" "-3912.8898925781 166.7799987793 1137.0300292969"
+		"angles" "0 -38.1899986267 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_045_gas_station.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Jeff Lane - Gas Station"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HL2 Caballs"
+		"origin" "-5392.2299804688 -12241.6298828125 743.7399902344"
+		"angles" "0 134.6600036621 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\066__h17__houses_after_first_rollermines.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jared 'ProJared' Knabenbauer - HL2 Development Team's Cabals"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "GasStation"
+		"origin" "-3689.1000976563 -4192.830078125 1308.6800537109"
+		"angles" "0 102.0899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\067__h17__gas_station.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ross Scott - Buggy Trivia"
+		"synopsis" ""
+	}
+}

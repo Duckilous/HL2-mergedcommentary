@@ -1,0 +1,48 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_244_hopper_mine_training"
+		"origin" "-3989.7700195313 -3302.6999511719 174.7299957275"
+		"angles" "0 -38.1699981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_244_hopper_mine_training.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dario Casali - Hopper Mine Training"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_257_ai_behaviors"
+		"origin" "-3741.5200195313 -3786.830078125 173.4900054932"
+		"angles" "0 -109.3399963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_257_ai_behaviors.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Mike Dussault - AI Behaviors"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "GravGun Concept"
+		"origin" "-3937.9499511719 -3018.9299316406 35.1199989319"
+		"angles" "0 25.8799991608 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\094__acone__c17_hoppers.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - Gravity Gun's Early Design"
+		"synopsis" ""
+	}
+}

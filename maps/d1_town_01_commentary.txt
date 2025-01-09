@@ -1,0 +1,288 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_212_we_dont_go_to_ravenholm"
+		"origin" "4411.5400390625 -2452.2800292969 -3724.9799804688"
+		"angles" "0 136.6399993896 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_212_we_dont_go_to_ravenholm.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dario Casali - We Don't Go To Ravenholm"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_223_ravenholm_gameplay_focus"
+		"origin" "4062.8601074219 -1135.9599609375 -3788.0600585938"
+		"angles" "0 151.1600036621 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_223_ravenholm_gameplay_focus.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Mike Dussault - Ravenholm Gameplay Focus"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_233_bringing_physics_to_the_enemies"
+		"origin" "3917.2399902344 -1030.9499511719 -3782.419921875"
+		"angles" "0 131.4199981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_233_bringing_physics_to_the_enemies.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Tom Leonard - Bringing Physics to the Enemies"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_224_player_tools"
+		"origin" "3631.25 -1015.2700195313 -3779.419921875"
+		"angles" "0 146.9299926758 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_224_player_tools.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Steve Bond - Player Tools"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_225_contrived_setups"
+		"origin" "2645.2399902344 -1345.8100585938 -3796.0900878906"
+		"angles" "0 120.5800018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_225_contrived_setups.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Kerry Davis - Contrived Setups"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_232_paint_cans"
+		"origin" "2161.8200683594 -1138.0500488281 -3722.3701171875"
+		"angles" "0 -174.5700073242 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_232_paint_cans.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Steve Bond - Paint Cans"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_234_ravenholm_development"
+		"origin" "2010.3399658203 -1819.8199462891 -3730.0500488281"
+		"angles" "0 -109.1100006104 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_234_ravenholm_development.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Tom Leonard - Ravenholm's Development"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_226_misteaching_flinches"
+		"origin" "1677.5699462891 -1414.4699707031 -3732.6201171875"
+		"angles" "0 84.0199966431 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_226_misteaching_flinches.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Kerry Davis - Misteaching Flinches"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_235_grigori_plaza"
+		"origin" "1647.3199462891 -1267.3699951172 -3795.75"
+		"angles" "0 169.6000061035 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_235_grigori_plaza.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Steve Bond - Grigori Plaza"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_227_fire_trap"
+		"origin" "967.5200195313 -433.9299926758 -3660.8500976563"
+		"angles" "0 114.7900009155 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_227_fire_trap.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Steve Bond - Fire Trap"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_228_hallway_cupboards"
+		"origin" "165.4400024414 -1008.7399902344 -3735.7099609375"
+		"angles" "0 113.8000030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_228_hallway_cupboards.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Yahn Bernier - Hallway Cupboards"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_216_poison_headcrabs"
+		"origin" "340.7300109863 -718.7600097656 -3446.0400390625"
+		"angles" "0 -140.9600067139 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_216_poison_headcrabs.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] David Speyrer - Poison Headcrabs"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_213_lever_shenanigans"
+		"origin" "395.700012207 -598.1699829102 -3447.1201171875"
+		"angles" "0 62.1800003052 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_213_lever_shenanigans.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dario Casali - Lever Shenanigans"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_236_ravenholm_development_2"
+		"origin" "1045.75 -538.7600097656 -3477.0700683594"
+		"angles" "0 -13.779999733 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_236_ravenholm_development_2.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Tom Leonard - We All Went To Ravenholm"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_230_car_crushers"
+		"origin" "1274.9799804688 22.7399997711 -3608.169921875"
+		"angles" "0 179.4400024414 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_230_car_crushers.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Steve Bond - Car Crushers"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_231_car_crusher_lifts"
+		"origin" "902.4199829102 232.3099975586 -3606.2399902344"
+		"angles" "0 128.0700073242 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_231_car_crusher_lifts.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Eric Smith - Car Crusher Lifts"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Zombies Design "
+		"origin" "2990.5500488281 -1151.7199707031 -1430.3499755859"
+		"angles" "0 343.9700012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\055__rvnhlm__bloody_shed_with_saw_blades.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ross Scott - Monster Designs"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Black Headcrab"
+		"origin" "-227.6799926758 -750.1300048828 -1129.6400146484"
+		"angles" "0 -310.5100097656 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\057__rvnhlm__room_with_first_black_headcrabs.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Black Headcrab"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Ravenholm Traps"
+		"origin" "772.3400268555 6.9000000954 -1272.5100097656"
+		"angles" "0 339.5299987793 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\056__rvnhlm__grigori's_dropping_cars.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Setting Up Traps"
+		"synopsis" ""
+	}
+}

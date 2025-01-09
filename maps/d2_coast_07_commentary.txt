@@ -1,0 +1,93 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_059_area_portals"
+		"origin" "-2856.1298828125 6595.75 1656.6300048828"
+		"angles" "0 -7.1399998665 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_059_area_portals.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Mike Dussault - Area Portals"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_258_occlusion"
+		"origin" "-991.5100097656 9288.2998046875 1714.0500488281"
+		"angles" "0 -40.3699989319 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_258_occlusion.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Brian Jacobsen - Occlusion"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_259_detail_objects"
+		"origin" "862.25 6492.509765625 1580.9100341797"
+		"angles" "0 -137.8300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_259_detail_objects.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Brian Jacobsen - Detail Objects"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_058_terrain_and_performance"
+		"origin" "1371.8100585938 5889.5498046875 1578.6099853516"
+		"angles" "0 -72.0500030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_058_terrain_and_performance.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Mike Dussault - Terrain and Performance"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Coast Houses"
+		"origin" "1162.4499511719 6429.7099609375 1319.0300292969"
+		"angles" "0 -96.5899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\070__h17__town_next_to_the_bridge.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - Illusion of Freedom"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Coast"
+		"origin" "1347.6899414063 3523.3999023438 1237.7099609375"
+		"angles" "0 -82 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\068__h17__on_traintracks_before_the_bridge.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Designing the Coast of City 17"
+		"synopsis" ""
+	}
+}

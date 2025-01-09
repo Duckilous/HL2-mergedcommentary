@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_239_cities"
+		"origin" "3791.4499511719 -4605.2001953125 -217.4100036621"
+		"angles" "0 81.0199966431 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_239_cities.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Eric Kirchmer - Cities"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Level Theme"
+		"origin" "3097.1599121094 3671.8200683594 -292.0899963379"
+		"angles" "0 100.8799972534 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\095__acone__toxic_tunnel.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Wallid 'Balrog The Master' Kanaan - Thematic Level Design"
+		"synopsis" ""
+	}
+}

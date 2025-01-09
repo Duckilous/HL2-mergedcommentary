@@ -1,0 +1,3 @@
+I will not store HL2U's commentary audio files on the repository.
+Please transfer the audio files from Half-Life 2: Update to this folder manually.
+The audio files are provided in the release, however, as part of the mod for users to install.

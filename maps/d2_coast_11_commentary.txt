@@ -1,0 +1,168 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_053_finest_mind_of_his_generation"
+		"origin" "3228.9599609375 -7568.6499023438 1611.0799560547"
+		"angles" "0 81.4199981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_053_finest_mind_of_his_generation.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Marc Laidlaw - Finest Mind of his Generation"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_027_floor_is_lava"
+		"origin" "2799.419921875 -1703.7600097656 727.950012207"
+		"angles" "0 89.6699981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_027_floor_is_lava.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Adrian Finol - Floor is Lava"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_049_sandtrap_thumper"
+		"origin" "3849.9099121094 4637.9799804688 504.5599975586"
+		"angles" "0 67.0100021362 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_049_sandtrap_thumper.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Laura Dubuk - Sandtrap Thumper"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_037_vortigaunt_extraction"
+		"origin" "4563.7700195313 6787.919921875 627.3900146484"
+		"angles" "0 59.9700012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_037_vortigaunt_extraction.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dhabih Eng - Vortigaunt Extraction"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_057_antlion_guard"
+		"origin" "5466.83984375 9972.150390625 206.4199981689"
+		"angles" "0 159.3000030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_057_antlion_guard.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Matt Wright - Antlion Guard Failsafe"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_036_bugbait_training"
+		"origin" "212.5800018311 11666.98046875 411.9200134277"
+		"angles" "0 152.5099945068 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_036_bugbait_training.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] David Sawyer - Bugbait Training"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Antlions"
+		"origin" "4744.1298828125 1032.9300537109 625.4400024414"
+		"angles" "0 116.3000030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\075__st__antlion_beach.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Antlion's Design"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Cache Coast"
+		"origin" "3368.169921875 1877.2399902344 640.8900146484"
+		"angles" "0 -138.3999938965 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\074__st__first_cache_on_sandtrap_beach.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Hidden Caches"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Antlion Guard "
+		"origin" "4530.2900390625 7382.9599609375 162.8200073242"
+		"angles" "0 55.7700004578 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\076__st__first_antlion_guard_fight.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - Antlion Guard's Behavior"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Vort Camp"
+		"origin" "2793.4699707031 10154.0302734375 210.9700012207"
+		"angles" "0 138.4100036621 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\077__st__in_vort_camp.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Wallid 'Balrog The Master' Kanaan - Befriending Foes"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Bugbait Training"
+		"origin" "880.950012207 11941.3701171875 93.3499984741"
+		"angles" "0 37.9199981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\078__st__bugbait_training.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jared 'ProJared' Knabenbauer - Bugbait Training"
+		"synopsis" ""
+	}
+}

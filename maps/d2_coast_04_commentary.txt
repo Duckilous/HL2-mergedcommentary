@@ -1,0 +1,123 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_061_d2_coast_04"
+		"origin" "-3218.7800292969 174.8399963379 38.1699981689"
+		"angles" "0 8.1999998093 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_061_d2_coast_04.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Randy Lundeen - D2_Coast_04"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_009_audio_over_distance"
+		"origin" "-2716.3999023438 465.5400085449 42.9599990845"
+		"angles" "0 25.8799991608 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_009_audio_over_distance.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Kelly Bailey - Audio Over Distance"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_056_buggy_tools"
+		"origin" "2455.6499023438 -1948.7800292969 295.2799987793"
+		"angles" "0 -129.2400054932 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_056_buggy_tools.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Matt Wright - Buggy's Tau Cannon"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_042_crane"
+		"origin" "4409.009765625 -1728.9699707031 303.0199890137"
+		"angles" "0 62.2400016785 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_042_crane.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Jakob Jungels - Crane"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_002_ramming_with_the_buggy"
+		"origin" "5887.8901367188 -5463.1298828125 561.8400268555"
+		"angles" "0 -110.6500015259 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_002_ramming_with_the_buggy.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Jay Stelly - Ramming with the Buggy"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_028_opportunistic_moments"
+		"origin" "2444.5400390625 3202.0200195313 1074.9300537109"
+		"angles" "0 56.7400016785 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_028_opportunistic_moments.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ariel Diaz - Opportunistic Moments"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Coast Crane"
+		"origin" "4501.509765625 -1683.9000244141 708.0300292969"
+		"angles" "0 89.2699966431 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\065__h17__drivable_crane.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Wallid 'Balrog The Master' Kanaan - Magnetic Crane and Reference Photos"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Gunship Takedown"
+		"origin" "2497.830078125 3637.3601074219 1064.6500244141"
+		"angles" "0 28.4500007629 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\064__h17__gunship_takedown_after_crane_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - Combine Gunship and Rockets"
+		"synopsis" ""
+	}
+}

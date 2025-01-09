@@ -1,0 +1,127 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_275_character_lighting"
+		"origin" "-476.799987793 784.3200073242 -2641.6201171875"
+		"angles" "0 -15.1199998856 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_275_character_lighting.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Character Lighting"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_277_facial_technology"
+		"origin" "-405.2699890137 803.6400146484 -2637.7299804688"
+		"angles" "0 62.6800003052 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_277_facial_technology.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Facial Technology"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_278_eye_shader"
+		"origin" "-545.5900268555 569.2199707031 -2640.0200195313"
+		"angles" "0 -109.6900024414 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_278_eye_shader.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Eye Shader"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_024_moving_the_gravity_gun"
+		"origin" "-690.0100097656 188.8500061035 -2512.7800292969"
+		"angles" "0 -134.5500030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_024_moving_the_gravity_gun.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ted Backman - Moving the Gravity Gun"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_280_risk"
+		"origin" "-1377.7199707031 623.799987793 -2635.3701171875"
+		"angles" "0 -1.0900000334 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_280_risk.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Risk"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Grav Gun"
+		"origin" "-447.4700012207 796.1199951172 -2657.919921875"
+		"angles" "0 44444.75 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\052__bme__when_given_grav_gun.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - Gravity Gun"
+		"synopsis" ""
+                                "connections"
+		{
+			"OnCommentaryStarted" "command_physcannon,command,ent_fire alyxvance disable,3,-1"
+		}
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "D0G"
+		"origin" "-1926.8499755859 -137.9100036621 -2646.0900878906"
+		"angles" "0 98.9300003052 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\053__bme__scrapyard_with_d0g.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Wallid 'Balrog The Master' Kanaan - DØg"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Ravenholm Tunel"
+		"origin" "-3090.2700195313 2720.4599609375 -2699.8500976563"
+		"angles" "0 89.9300003052 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\054__bme__tunnel_leading_to_ravenholm_after_attack.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jared 'ProJared' Knabenbauer - Ravenholm"
+		"synopsis" ""
+	}
+}

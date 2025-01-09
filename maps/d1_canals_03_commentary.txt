@@ -1,0 +1,93 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_089_manhack_matt"
+		"origin" "-892.7399902344 2994.3200683594 -814.4000244141"
+		"angles" "0 -140.9600067139 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_089_manhack_matt.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] John Morello - Manhack Matt"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_087_explosive_barrel_factory"
+		"origin" "-2264.8898925781 -889.799987793 -1208"
+		"angles" "0 168.5299987793 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_087_explosive_barrel_factory.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] David Speyrer - Explosive Barrel Factory"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_088_rising_water"
+		"origin" "-2726.7900390625 107.4100036621 -1090.7800292969"
+		"angles" "0 171.4299926758 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_088_rising_water.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dhabih Eng - Rising Water"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Explosives in Underground"
+		"origin" "439.4800109863 2726.9399414063 -818.3599853516"
+		"angles" "0 172.8800048828 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\026__rk _crates_by_explosives_in_underground_canals.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Crate Trend"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Manhack Encounter"
+		"origin" "281.8599853516 2183.1799316406 -817.9000244141"
+		"angles" "0 -2.0299999714 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\027__rk__first_manhack_encounter.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - First Manhack Encounter"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Source Engine Tech"
+		"origin" "1079.7099609375 1736.4300537109 -810.5100097656"
+		"angles" "0 -175.3999938965 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\028__rk__outside_fence_door_with_manhacks_behind_it.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - How Valve Removes NPCs"
+		"synopsis" ""
+	}
+}

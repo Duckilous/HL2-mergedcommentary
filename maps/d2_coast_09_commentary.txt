@@ -1,0 +1,123 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_052_28_transitions_later"
+		"origin" "-12023.0703125 7322.1298828125 558.5599975586"
+		"angles" "0 -51.6100006104 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_052_28_transitions_later.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Marc Laidlaw - 28 Transitions Later"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_003_ramming_zombies_with_the_buggy"
+		"origin" "-11512.3203125 7411.1298828125 560.950012207"
+		"angles" "0 -28.9500007629 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_003_ramming_zombies_with_the_buggy.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Jay Stelly - Ramming Zombies with the Buggy"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_043_flashlight_power"
+		"origin" "-11618.259765625 7044.5 567.2800292969"
+		"angles" "0 -53.8699989319 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_043_flashlight_power.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Jeff Lane - Flashlight Power"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_165_d2_coast_09"
+		"origin" "-481.9100036621 -6690.2900390625 -707.25"
+		"angles" "0 12.6800003052 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_165_d2_coast_09.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Aaron Seeler - D2_Coast_09"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_064_battery_finding"
+		"origin" "10765.0595703125 8336.48046875 -144.0700073242"
+		"angles" "0 -14.7100000381 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_064_battery_finding.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Robin Walker - Battery Finding"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Cut Content"
+		"origin" "867.25 -6690.25 -704.1300048828"
+		"angles" "0 -169.2599945068 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\071__st__rollermine_house.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Wallid 'Balrog The Master' Kanaan - Valve's View on Cutting Content"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Tech"
+		"origin" "-118.8600006104 5218.2202148438 -427.6000061035"
+		"angles" "0 77.3300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\072__st__combine_roadblock_before_battery_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jared 'ProJared' Knabenbauer - Combine Technology's Consistent Style"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Battery Puzzle Coast"
+		"origin" "10907.0302734375 8805.8603515625 -126.5299987793"
+		"angles" "0 139.3000030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\073__st__car_battery_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ross Scott - Pacing with Puzzles"
+		"synopsis" ""
+	}
+}

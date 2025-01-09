@@ -1,0 +1,78 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_256_citizen_squads"
+		"origin" "-3714.5100097656 -3892.6999511719 52.7400016785"
+		"angles" "0 -53.4300003052 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_256_citizen_squads.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Citizen Squads"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_255_citizen_squad_details"
+		"origin" "-2405.6999511719 -2340.7700195313 45.8300018311"
+		"angles" "0 57.1199989319 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_255_citizen_squad_details.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Matt Wright - Citizen Squad Details"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Missing Childrens"
+		"origin" "-4764.5498046875 -3572.4299316406 32.3699989319"
+		"angles" "0 101.8499984741 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\091__acone__playground_revisit.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ross Scott - Children's Absence"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Collapsing Breencast"
+		"origin" "-2800.3200683594 -3005.5900878906 42.1399993896"
+		"angles" "0 53.7999992371 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\092__acone___revisiting_breencast_plaza.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Revisiting the Plaza"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Civilians"
+		"origin" "-1542.2900390625 -3167.7900390625 38.1199989319"
+		"angles" "0 -65.4599990845 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\093__acone__right after breencast plaza.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Unique Civilians and Rebels"
+		"synopsis" ""
+	}
+}

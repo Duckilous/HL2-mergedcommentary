@@ -1,0 +1,183 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_111_airboat_wreckage"
+		"origin" "72.5500030518 4382.4301757813 -1361.6899414063"
+		"angles" "0 121.1699981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_111_airboat_wreckage.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] David Speyrer - Airboat Wreckage"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_013_alyx_and_mossman"
+		"origin" "56.4399986267 2939.6298828125 -1222.6600341797"
+		"angles" "0 -78.7099990845 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_013_alyx_and_mossman.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Bill Fletcher - Alyx and Mossman"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_016_elis_lab"
+		"origin" "372.2600097656 1957.9300537109 -2692.4499511719"
+		"angles" "0 115.3899993896 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_016_elis_lab.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dhabih Eng - Eli's Lab"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_017_feel_free_to_look_around"
+		"origin" "674.7899780273 2057.7900390625 -2692.4499511719"
+		"angles" "0 -32.5800018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_017_feel_free_to_look_around.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Dhabih Eng - Feel Free To Look Around"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_014_exposition_board"
+		"origin" "596.3699951172 2356.9499511719 -2692.4499511719"
+		"angles" "0 65.3000030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_014_exposition_board.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Danika Rogers - Exposition Board"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_281_hugs_and_pickups"
+		"origin" "648.2600097656 2183.5300292969 -2692.4499511719"
+		"angles" "0 23.6299991608 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_281_hugs_and_pickups.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Hugs and Pickups"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_021_mossman"
+		"origin" "-308.3299865723 2213.3601074219 -2692.4499511719"
+		"angles" "0 134.0099945068 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_021_mossman.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Marc Laidlaw - Mossman"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Black Mesa East"
+		"origin" "-588.0599975586 4222.169921875 -1373.9499511719"
+		"angles" "0 -129.2599945068 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\050__bme__elis_lab.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Eli's Lab"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Judith Mossman"
+		"origin" "-29.3700008392 2473.4799804688 -1249.0899658203"
+		"angles" "0 -88.4000015259 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\038__bme__before_elevator_ride_with_mossman.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim “Caddicarus” Caddick - History of Judith Mossman + Her Elevator Ride"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Cremator Head"
+		"origin" "489.7200012207 2014.7099609375 -2696.0600585938"
+		"angles" "0 -999.6599731445 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\039__bme__elis_lab_cremator_head.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Cremator's Head"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Eli Vance"
+		"origin" "617.0999755859 2266.2900390625 -2708.4099121094"
+		"angles" "0 16.6299991608 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\040__bme__elis_lab.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - History of Eli Vance"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Alyx Vance "
+		"origin" "-622.450012207 1596.3499755859 -2689.2199707031"
+		"angles" "0 -108.4100036621 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\051__bme__hallway_between_lab_and_scrapyard.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Alyx's Character Design"
+		"synopsis" ""
+	}
+}

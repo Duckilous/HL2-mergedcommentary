@@ -1,0 +1,63 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_031_the_bridge"
+		"origin" "3327.9699707031 3703.2600097656 1838.25"
+		"angles" "0 -88.5699996948 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_031_the_bridge.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Charlie Brown - The Bridge"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_054_bridge_playtesting"
+		"origin" "3272.25 2267.8100585938 1835.1600341797"
+		"angles" "0 -69.0400009155 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_054_bridge_playtesting.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Matt Boone - Bridge Playtesting"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_026_bridge_gunship"
+		"origin" "3427.2600097656 925.6300048828 1527.6999511719"
+		"angles" "0 -88.7300033569 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_026_bridge_gunship.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Adrian Finol - Bridge Gunship"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "The Bridge"
+		"origin" "3328.9399414063 -2632.4899902344 1568.6600341797"
+		"angles" "0 -144.7100067139 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\069__h17__under_the_bridge.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Level Design of the Bridge"
+		"synopsis" ""
+	}
+}

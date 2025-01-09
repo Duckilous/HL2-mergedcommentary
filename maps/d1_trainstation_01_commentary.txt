@@ -1,0 +1,318 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_118_welcome"
+		"origin" "-5410.009765625 -1856.1300048828 60.4500007629"
+		"angles" "0 -2.9300000668 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_118_welcome.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Gabe Newell - Intro of Developer Commentary"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_116_physics_objects"
+		"origin" "-5299.5600585938 -1967.8399658203 55.4900016785"
+		"angles" "0 -22.9899997711 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_116_physics_objects.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] David Sawyer - Physics Objects"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_115_trainstation"
+		"origin" "-4881.6499023438 -1981.0699462891 17.9599990845"
+		"angles" "0 -5.4400000572 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_115_trainstation.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Charlie Brown - Train Station"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_119_metrocop_shoving_citizens"
+		"origin" "-4169.3798828125 -1932.0799560547 10"
+		"angles" "0 55.1500015259 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_119_metrocop_shoving_citizens.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Josh Weier - Shoving Citizens"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_121_sweeping_vortigaunt"
+		"origin" "-4134.7998046875 -2441.7800292969 10"
+		"angles" "0 -88.6600036621 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_121_sweeping_vortigaunt.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Laura Dubuk - Sweeping Vortigaunt"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_150_citizens"
+		"origin" "-3948.1899414063 -1362.8399658203 10"
+		"angles" "0 -32.0900001526 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_150_citizens.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Bill Van Buren - Citizens"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_114_natural_storytelling"
+		"origin" "-5025.1000976563 -1227.5100097656 10"
+		"angles" "0 178.7700042725 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_114_natural_storytelling.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Bill Van Buren - Natural Storytelling"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_274_early_tech_planning"
+		"origin" "-4349.419921875 -675.7700195313 11.6800003052"
+		"angles" "0 2.9400000572 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_274_early_tech_planning.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ken Birdwell - Early Tech Planning"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_146_storytelling"
+		"origin" "-4779.9799804688 -932.299987793 10.3599996567"
+		"angles" "0 -47.3699989319 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_146_storytelling.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Bill Van Buren - Storytelling"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_158_characters"
+		"origin" "-3565.2900390625 -536.3499755859 6.9400000572"
+		"angles" "0 -43.3100013733 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_158_characters.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Marc Laidlaw - Characters"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_113_blocking_tutorials"
+		"origin" "-3372.3100585938 -62.9900016785 15"
+		"angles" "0 117.4499969482 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_113_blocking_tutorials.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Adrian Finol - Blocking Tutorials #1"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_122_blocking_tutorials_2"
+		"origin" "-3508.1799316406 62.7099990845 15"
+		"angles" "0 69.8700027466 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_122_blocking_tutorials_2.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Robin Walker - Blocking Tutorials 2"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_117_blocking_tutorials_3"
+		"origin" "-3288.0200195313 46.5200004578 126.5400009155"
+		"angles" "0 -17.4500007629 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_117_blocking_tutorials_3.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Eric Smith - Blocking Tutorials #3"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_120_fall_damage"
+		"origin" "-3145.4899902344 67.0299987793 -20.5799999237"
+		"angles" "0 -44.3800010681 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_120_fall_damage.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Kerry Davis - Fall Damage"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Intro_Filip_Victor"
+		"origin" "-5293.539551 -1856.477661 80.031250"
+		"angles" "0 3.3900001049 0"
+		"precommands" "ent_fire fire_all Disable"
+		"postcommands" "ent_fire fire_all Trigger"
+		"commentaryfile" "#commentary\extra_filip_victor_1.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Filip Victor - Intro of Community Commentary"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Zachary_Howlett_Intro"
+		"origin" "-5349.7900390625 -1956.2800292969 41.1300010681"
+		"angles" "0 -62.2200012207 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\extra_zach node_1.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Zachary Howlett - Creating the Community Commentary"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Trainstation Platform"
+		"origin" "-5060.6401367188 -2046.0400390625 3.5599999428"
+		"angles" "0 -27.1499996185 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\001__pi__train_station_platform.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Train Station"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Sweeping Vort"
+		"origin" "-4028.4899902344 -2585.5400390625 -1.2999999523"
+		"angles" "0 -95.5100021362 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\002__pi__sweeping_vort.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Ian 'Brutalmoose' MacLeod - Sweeping Vortigaunt"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Fence Line "
+		"origin" "-4901.5200195313 -792.5100097656 1.5399999619"
+		"angles" "0 21.8299999237 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\003__pi__fence_line_before_barney.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Mick 'Ricepirate' Lauer - Division of Humanity"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Fence Line 2"
+		"origin" "-4266.3701171875 -843.5700073242 6.7699999809"
+		"angles" "0 -40.2999992371 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\004__PI__Security_Checkpoint_Line.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Wallid 'Balrog The Master' Kanaan - Combine's Treatment of Earth"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "It's Me Gordon!"
+		"origin" "-3419.9799804688 -352.4400024414 18.5900001526"
+		"angles" "0 -81.25 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\005__pi__its_me_gordon_barney_from_black_mesa.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jared 'ProJared' Knabenbauer - Ascended HL1 Cast"
+		"synopsis" ""
+	}
+}

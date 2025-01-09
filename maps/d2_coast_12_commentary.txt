@@ -1,0 +1,48 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_055_thumper_final_stage"
+		"origin" "4784.990234375 -11035.9404296875 340.4599914551"
+		"angles" "0 91.5400009155 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_055_thumper_final_stage.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Matt Boone - Thumper Final Stage"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "cn_029_assault_on_nova_prospekt"
+		"origin" "4647.8701171875 -7487.080078125 376.2699890137"
+		"angles" "0 109.0899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\cn_029_assault_on_nova_prospekt.mp3"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[VALVE] Ariel Diaz - Assault on Nova Prospekt"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Soldier Nova"
+		"origin" "-5061.1899414063 1826.1400146484 700.1699829102"
+		"angles" "0 97.8899993896 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\080__st__broken_hallway_with_flares_before_nova_prospekt.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "[COMMUNITY] Jim 'Caddicarus' Caddick - Combine Uniform Design"
+		"synopsis" ""
+	}
+}
